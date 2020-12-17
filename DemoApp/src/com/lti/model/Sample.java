@@ -8,5 +8,8 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	public void method() {
+		System.out.println("Hi All, how you doin?");
+	}
 
 }
