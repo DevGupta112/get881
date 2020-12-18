@@ -5,6 +5,6 @@ public class Calc {
 		System.out.println("Sum= "+(num1+num2));
 	}
 	public void diff(int num1,int num2) {
-		System.out.println("Diff= "+(num1-num2));
+		System.out.println("Difference naya dala= "+(num1-num2));
 	}
 }
