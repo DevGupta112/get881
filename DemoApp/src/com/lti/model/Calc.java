@@ -7,4 +7,7 @@ public class Calc {
 	public void diff(int num1,int num2) {
 		System.out.println("Difference naya dala= "+(num1-num2));
 	}
+	public void multiply(int num1,int num2) {
+		System.out.println("Multiply= "+(num1*num2));
+	}
 }
